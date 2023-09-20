@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@MHadiMedia",
+      "image": "images/social/youtube.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://instagram.com/mhadimedia/",
+      "image": "images/social/instagram.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/mhadimedia",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
