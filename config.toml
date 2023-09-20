@@ -2,6 +2,7 @@ baseURL = "https://mhadi.blog/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
+publishDir = "docs"
 title = "M Hadi's Blog"
 paginate = 3
 pygmentsCodeFences = true
