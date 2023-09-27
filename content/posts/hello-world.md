@@ -24,24 +24,18 @@ description: "Welcome, I guess?"
 
 Truth is, most blogs suck. Which is why I don't want one either.
 
-On this "blog" are simply reflections. These include quotes I hear, stories I find interesting, topics that need to be discussed, and whatever is on my mind.
+On this "blog", posts are simply reflections. These include quotes I hear, stories I find interesting, topics that need to be discussed, and whatever is on my mind.
 
-> The length doesn't matter. 
-I'll write sentences and I'll write essays.
-
-> The style doesn't matter. 
-I'll be formal and I'll be informal.
-
-> My advice doesn't matter. 
-I can only give the advice of others that worked for me.
+- The length doesn't matter. I'll write sentences and I'll write essays.
+- The style doesn't matter. I'll be formal and I'll be informal.
+- My advice doesn't matter. I can only give the advice of others that worked for me.
 
 ## Types of Content
-- The Tweets: Short stuff that I honestly can't be bothered to write more than a line or two on. you probably can't be bothered to read more than that either.
-- The Stories: Life's about making and telling stories. Who doesn't love a good one?
+- The tweets: Short stuff that I honestly can't be bothered to write more than a line or two on. you probably can't be bothered to read more than that either.
+- The stories: Life's about making and telling stories. Who doesn't love a good one?
 - the advice: Advice I've gotten that's worked for me and might work for you.
-- The Ideas: Stuff that should exist. No license required to steal.
-- The Reflections: Blending everything together. (D - all of the above)
-- Before the blog: Dig through the dirt to uncover gold (in the form of bad writing).
-- The Drafts: Half-baked or abandoned posts
+- The ideas: Stuff that should exist. No license required to steal.
+- The posts: Blending everything together. (D - all of the above)
+- The drafts: Half-baked or abandoned posts
 
 ### *This is merely a mind dump.*
