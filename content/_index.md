@@ -1,5 +1,5 @@
 ---
-title: M Hadi's Blog
+title: Reflections by M Hadi
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 

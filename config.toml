@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 publishDir = "docs"
-title = "M Hadi's Blog"
+title = "Reflections by M Hadi"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -61,7 +61,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "pages/about/"
+    url = "/about/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"
