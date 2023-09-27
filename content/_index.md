@@ -1,6 +1,25 @@
 ---
 title: Reflections by M Hadi
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: No robots, no nonsense, just a mind dump of reflections.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+# What defines a blog?
+
+- Lengthy, long paragraphs.
+- Formal writing.
+- Personal advice.
+
+Truth is, most blogs suck. Which is why I don't want one either.
+
+On this "blog" are simply reflections. These include quotes I hear, stories I find interesting, topics that need to be discussed, and whatever is on my mind.
+
+> The length doesn't matter. 
+I'll write sentences and I'll write essays.
+
+> The style doesn't matter. 
+I'll be formal and I'll be informal.
+
+> My advice doesn't matter. 
+I can only give the advice of others that worked for me.
+
+***This is merely a mind dump.***
