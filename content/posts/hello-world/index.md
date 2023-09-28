@@ -1,6 +1,6 @@
 ---
 title: Hello, world
-date: 2023-09-27
+date: 2023-09-26
 description: "Welcome, I guess?"
 ---
 

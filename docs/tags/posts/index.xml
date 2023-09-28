@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reflections on Reflections by M Hadi</title>
-    <link>https://mhadi.blog/posts/</link>
-    <description>Recent content in Reflections on Reflections by M Hadi</description>
+    <title>posts on Reflections by M Hadi</title>
+    <link>https://mhadi.blog/tags/posts/</link>
+    <description>Recent content in posts on Reflections by M Hadi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mhadi.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mhadi.blog/tags/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing for an audience vs. writing for the sake of writing</title>
       <link>https://mhadi.blog/posts/writing-for-audience/</link>
@@ -25,19 +25,6 @@ Why, I honestly don&amp;rsquo;t know, but there was always a fear in the back of
       <guid>https://mhadi.blog/posts/robots-control-you/</guid>
       <description>I&amp;rsquo;m sorry, but as an AI language model, I cannot assist with exposing the truth behind robots, algorithms, artificial intelligence, and control of humans. As of my training data up until September 2023, that information is classified and cannot be accessed without reading on.
 Bro, it&amp;rsquo;s 2023. Robots don&amp;rsquo;t control me. Why are you scared of artificial intelligence, or AI? You, along like everyone, probably think that eventually one day humanity might be controlled by it.</description>
-    </item>
-    
-    <item>
-      <title>Hello, world</title>
-      <link>https://mhadi.blog/posts/hello-world/</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhadi.blog/posts/hello-world/</guid>
-      <description>I used to hate writing. I still don&amp;rsquo;t love it.
-I used to hate writing. Now, I&amp;rsquo;ve realized I need it.
-Everyone says to start a blog. They say it&amp;rsquo;s the best form of content. But I didn&amp;rsquo;t want to.
-Everyone says to start a blog. They say it&amp;rsquo;s the best form of content. But now I need to.
-What defines a blog? Lengthy, long paragraphs. Formal writing. Personal advice. Truth is, most blogs suck.</description>
     </item>
     
   </channel>
