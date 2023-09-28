@@ -1,5 +1,5 @@
 ---
-title: Reflections by M Hadi
+title: Reflections
 description: No robots, no nonsense, just a mind dump of reflections.
 ---
 

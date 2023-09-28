@@ -1,5 +1,5 @@
 ---
-title: Hello, world.
+title: Hello, world
 date: 2023-09-27
 description: "Welcome, I guess?"
 ---
