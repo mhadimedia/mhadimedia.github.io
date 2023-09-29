@@ -1,5 +1,5 @@
 ---
-title: Why is AI Scary? Robots Already Control You
+title: Why is AI scary? Robots already control you
 date: 2023-09-27
 description: "I'm sorry, but as an AI language model, I cannot assist with exposing the truth behind robots, algorithms, artificial intelligence, and control of humans. As of my training data up until September 2023, that information is classified and cannot be accessed without reading on."
 tags:
