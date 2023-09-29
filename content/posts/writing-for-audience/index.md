@@ -14,14 +14,16 @@ Why, I honestly don't know, but there was always a fear in the back of my mind t
 Little did I realize the opportunities I was missing out on.
 
 ### Anti-writing
-I would still write - I'd write messages, I'd write captions, I'd write descriptions. But I wouldn't write for the sake of writing. In fact, I had somewhat of a hatred for writing as well; the only time I'd have to write was in school where there were rulings and guidelines and a grade on stake. I grew up not even understanding what it meant to write... to write freely.
+I would still write - I'd write messages, I'd write captions, I'd write descriptions. But I wouldn't write for the sake of writing. In fact, I had developed somewhat of a hatred for writing as well; the only time I'd have to properly write was in school, where there were rulings and guidelines and a grade on stake. I grew up not even understanding what it meant to write... to write freely.
 
 ### Just start, already
-I joined Linkedin - I was in 11th grade now, and had to act somewhat professional. I quickly filled in all my previous jobs, my experiences, and my projects. I saw some community members creating posts on LinkedIn; "this is cool," I thought. So I wrote one about a project I was planning to start. 
+In 2022, I joined Linkedin - I was in 11th grade now, and had to act somewhat professional. I quickly filled in all my previous jobs, my experiences, and my projects. I saw some community members creating posts on LinkedIn; "this is cool," I thought. So I wrote one about a project I was planning to start. 
 
-It got around 4 likes - cool, I thought. Let's try again.
+It got around 4 likes - "cool," I thought. "Let's try again."
 
-My next post was pretty much an essay. I spent an hour typing about a project I worked on in 2020, how it failed, and what I learnt from it. "start a blog," said Hayaan, a friend of mine. I replied with "lol". 
+My next post was pretty much an essay. I spent an hour typing about a project I worked on in 2020, how it failed, and what I learnt from it. 
+
+"Start a blog," said Hayaan, a friend of mine. I replied with "lol". 
 
 Either way, I carried on writing. I wrote whenever I felt like it, about pretty much anything on my mind. I wrote about projects, about AI, and about [ice being a scam](https://www.linkedin.com/posts/mhadimedia_marketing-smart-scam-activity-7065111215500398592-X92a?utm_source=share&utm_medium=member_desktop). 
 
@@ -31,22 +33,22 @@ I thought everything was fine - sure, I wasn't getting the greatest engagement. 
 
 Hayaan had started a blog without telling anyone. He wrote his posts without telling anyone. He didn't even share any of his posts with me until he had one that was specific to a topic I was interested in, around 10 posts in. 
 
-I was shocked - usually I would share every single post I wrote with him and a few other friends. I just couldn't understand why he would write without sharing it with others - who was he even writing for?
+I was shocked - usually I would share every single post I wrote with him and a few other friends. I just couldn't understand why he would write without sharing it with others... who was he even writing for?
 
 ## I fell into a trap
 Let's backtrack a bit. *"My name is M Hadi..."* yeah not that far back.
 *"I grew up not even understanding what it meant to write..."* that's good, let's continue from here.
 
-When I actually started for the sake of writing, never was it truly for the sake of writing. It was for the sake of Linkedin. It was for the sake of my followers on Linkedin. It was for the sake of engagement, and I didn't even realize a problem with that. 
+When I actually started "writing", it was never truly for the sake of writing. It was for the sake of Linkedin. It was for the sake of my followers on Linkedin. It was for the sake of engagement, and I didn't even realize the problem with that. 
 
-For a year, I wrote posts because I wanted to learn about the Linkedin algorithm, or because I wanted more engagment; it was never because **I wanted to write.**
+For a year, I wrote posts because I wanted to appeal to the Linkedin algorithm, or because I wanted more engagment; it was never because **I wanted to write.**
 
 I was writing for an audience, and not writing for the sake of writing.
 
 ## Writing for the sake of writing
-What does that even mean? It means writing because you want to write. It means writing for absolutely nobody. It means not caring what anyone thinks about what you write, or how you write.
+What does that even mean? It means writing because you want to write. It means writing for absolutely nobody. It means not caring what anyone thinks about what or how you write.
 
-There's nothing wrong with writing for an audience, but that's simply marketing. You're marketing yourself to others, with the goal being attracting an audience.
+There's nothing wrong with writing for an audience, but that's simply marketing. You're marketing yourself to others, with the goal of attracting an audience.
 
 But writing for the sake of writing is sharing your thoughts with the world not caring if even a single person out of nine billion reads your thoughts.
 
