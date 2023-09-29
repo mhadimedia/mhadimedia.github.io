@@ -1,0 +1,4 @@
+.summary-title::after {
+    content: ".";
+    color: var(--dot-color)
+}
