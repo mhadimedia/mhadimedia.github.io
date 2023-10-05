@@ -4,7 +4,7 @@ date: 2023-10-04T18:13:56-07:00
 description: "We're sometimes told to just accept everything and never question. Here's why that's the wrong mindset."
 ---
 
-Everyone around you is right. People older than you know what they're doing. You're just a kid - you don't know anything, so just accept what everyone around you says. Stop asking questions!
+*Everyone around you is right. People older than you know what they're doing. You're just a kid - you don't know anything, so just accept what everyone around you says. Stop asking questions!*
 
 Unfortunately, this is the mindset sometimes forced upon the young, that questioning is wrong. We're told to accept what we hear and see.
 
@@ -40,6 +40,6 @@ I'm quite thankful for these events happening - this kid managed to prove to the
 
 The mistake this classmate made was not to ask questions, it was to not listen to the responses. And it's not even his fault - as humans, we naturally become defensive. If anything we say is proven wrong, we have an instinct to fight back.
 
-That instinct is something that needs to be controlled. 
+That instinct is something that needs to be controlled. We should question everything, but be opening to learning.
 
-We should question everything, but be opening to learning, and be open to being proven wrong.
+And the hardest part = we should always be open to being proven wrong.
