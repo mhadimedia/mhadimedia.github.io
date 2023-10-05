@@ -26,7 +26,7 @@ I never grew up asking questions, and it's not even because I was told not to qu
 
 This friend told me how he decided he didn't want to be a Muslim just because he was born a Muslim. He wanted to actually question everything and do his research. He spent days researching religions, and came to the conclusion that there literally is nothing in the world better than his religion.
 
-This questioning led to his faith becoming even stronger. Instead of being born a Muslim and never realizing why he truly is a Muslom, and therefore potentially leading him to not take parts of Islam seriously, he simply asked questions.
+This questioning led to his faith becoming even stronger. Instead of being born a Muslim and never realizing why he truly is a Muslim, and therefore potentially leading him to not take parts of Islam seriously, he simply asked questions.
 
 There's a key thing that he did here though that led to his questioning being respectable. He was open to learning.
 
@@ -45,4 +45,4 @@ The mistake this classmate made was not to ask questions, it was to not listen t
 
 That instinct is something that needs to be controlled. We should question everything, but be opening to learning.
 
-And the hardest part = we should always be open to being proven wrong.
+And the hardest part - we should always be open to being proven wrong.
