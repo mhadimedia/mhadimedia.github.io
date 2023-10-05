@@ -31,11 +31,11 @@ On this "blog", posts are simply reflections. These include quotes I hear, stori
 - My advice doesn't matter. I can only give the advice of others that worked for me.
 
 ## Types of Content
-- The tweets: Short stuff that I honestly can't be bothered to write more than a line or two on. you probably can't be bothered to read more than that either.
+- The tweets: Short stuff that I honestly can't be bothered to write more than a line or two on. You probably can't be bothered to read more than that either.
 - The stories: Life's about making and telling stories. Who doesn't love a good one?
 - the advice: Advice I've gotten that's worked for me and might work for you.
 - The ideas: Stuff that should exist. No license required to steal.
-- The posts: Blending everything together. (D - all of the above)
+- The posts: Blending everything together.
 - The drafts: Half-baked or abandoned posts
 
 ### *This is merely a mind dump.*

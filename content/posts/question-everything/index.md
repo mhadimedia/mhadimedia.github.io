@@ -2,15 +2,18 @@
 title: "Question everything, but be open to learning"
 date: 2023-10-04T18:13:56-07:00
 description: "We're sometimes told to just accept everything and never question. Here's why that's the wrong mindset."
+tags:
+   - posts
+   - advice
 ---
 
-*Everyone around you is right. People older than you know what they're doing. You're just a kid - you don't know anything, so just accept what everyone around you says. Stop asking questions!*
+***Everyone around you is right. People older than you know what they're doing. You're just a kid - you don't know anything, so just accept what everyone around you says. Stop asking questions!***
 
 Unfortunately, this is the mindset sometimes forced upon the young, that questioning is wrong. We're told to accept what we hear and see.
 
 This mindset is completely wrong, but there's a balanece to it to. Let me explain.
 
-## Question everything
+## Question everything.
 You should never be afraid to ask questions. If you're told to accept something and not to ask questions about it, that can plant a seed of doubt in your mind. This seed is poisonous, and can slowly grow until you stop believing in what your told.
 
 Sometimes, this is intentional. There's something being hidden, and people don't want you to question it. But most of the time, there's absolutely nothing wrong with asking questions.
@@ -27,7 +30,7 @@ This questioning led to his faith becoming even stronger. Instead of being born 
 
 There's a key thing that he did here though that led to his questioning being respectable. He was open to learning.
 
-## Be opening to learning
+## Be opening to learning.
 I had another classmate who started questioning his religion. He decided to convert to another branch of Islam. Everyone around him assumed it was for clout, as he would continuously make a big deal about it and flex to everyone.
 
 He started openly questioning parts of the religion the majority of students around him were. He questioned the authority of religious leaders and the authenticity of history.
