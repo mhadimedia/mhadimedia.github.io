@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mhadi.blog/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://mhadi.blog/posts/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://mhadi.blog/tags/research/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://mhadi.blog/tags/story/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://mhadi.blog/tags/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://mhadi.blog/posts/cinematic-spiderverse/</loc>
+    <lastmod>2023-10-10T20:46:05-07:00</lastmod>
+  </url><url>
     <loc>https://mhadi.blog/tags/advice/</loc>
     <lastmod>2023-10-04T18:13:56-07:00</lastmod>
   </url><url>
@@ -9,15 +27,6 @@
     <lastmod>2023-10-04T18:13:56-07:00</lastmod>
   </url><url>
     <loc>https://mhadi.blog/posts/question-everything/</loc>
-    <lastmod>2023-10-04T18:13:56-07:00</lastmod>
-  </url><url>
-    <loc>https://mhadi.blog/</loc>
-    <lastmod>2023-10-04T18:13:56-07:00</lastmod>
-  </url><url>
-    <loc>https://mhadi.blog/posts/</loc>
-    <lastmod>2023-10-04T18:13:56-07:00</lastmod>
-  </url><url>
-    <loc>https://mhadi.blog/tags/</loc>
     <lastmod>2023-10-04T18:13:56-07:00</lastmod>
   </url><url>
     <loc>https://mhadi.blog/posts/writing-for-audience/</loc>
