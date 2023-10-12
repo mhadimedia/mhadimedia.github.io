@@ -1,17 +1,17 @@
 ---
-title: "Webbed Narratives: the Spider-Verse’s Cinematic Leap into Imagination"
+title: "Spider-Man: Across the Spider-Verse’s Cinematic Leap into Imagination"
 date: 2023-10-10T20:46:05-07:00
 image: images/spiderverse.jpg
-description: "Spider-Man Across the Spider-Verse was great. Here's exactly why."
+description: "There's a reason why everyone loves Spider-Man Across the Spider-Verse. They used everything they could to tell the best possible story. Here's how you can use the exact same techniques as they did."
 tags:
    - story
    - research
 ---
-*The following is a research paper I wrote for a college course I'm taking. While it was originally meant to be five pages, it ended up being 19 by the time I finished writing all my thoughts. Enjoy the blood, sweat, and tears that went into this.*
+*The following is adapted from a research paper I wrote for a college course. Originally meant to be five pages, it ended up being nineteen by the time I finished writing all my thoughts. Enjoy the blood, sweat, and tears that went into this.* **WARNING: SPOILERS AHEAD.**
 
 For the longest time, animations have tried to mimic real-life imagery through their lighting, framing, characters, and setting. But what happens when animators break that boundary? When animation becomes what it should be - an expansion of the human mind’s endless imagination? This was what the directors of Spider-Man Into the Spider-Verse tried to do. And after earning $385 million and winning fifteen awards, they decided to do it again. 
 
-Spider-Man: Across the Spider-Verse was a sequel created by Sony and Marvel, directed by Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson, and released in June 2023. It was originally meant to be the second out of two movies in the Spider-Verse series but was split into two parts during the production of the movie, leading to the creation of a third movie, Beyond the Spider-Verse. Across the Spider-Verse has already grossed over $690 million, with over $120M during the opening weekend. It follows the journey of Miles Morales, a high school student living in Brooklyn, New York, as he discovers the advantages and curses that come with his powers. And with the introduction of multiple universes, we get what the creators describe as “multiple movies” in one. In this paper, we will contrast the storytelling of Across the Spider-Verse to the storytelling of the first movie in the trilogy, Into the Spider-Verse. By bringing in examples of successful storytelling from Into the Spider-Verse, we can analyze how Sony was able to build on that success by telling better stories. The following research paper contains spoilers for the movie.
+Spider-Man: Across the Spider-Verse was a sequel created by Sony and Marvel, directed by Joaquim Dos Santos, Kemp Powers, and Justin K. Thompson, and released in June 2023. It was originally meant to be the second out of two movies in the Spider-Verse series but was split into two parts during the production of the movie, leading to the creation of a third movie, Beyond the Spider-Verse. Across the Spider-Verse has already grossed over $690 million, with over $120M during the opening weekend. It follows the journey of Miles Morales, a high school student living in Brooklyn, New York, as he discovers the advantages and curses that come with his powers. And with the introduction of multiple universes, we get what the creators describe as “multiple movies” in one. Today, we will contrast the storytelling of Across the Spider-Verse to the storytelling of the first movie in the trilogy, Into the Spider-Verse. By bringing in examples of successful storytelling from Into the Spider-Verse, we can analyze how Sony was able to build on that success by telling better.
 
 ## Starting With the Screenplay
 Every movie starts with a screenplay. This is where the movie's story is determined, along with anything that will be shown on screen. The screenplay of Across the Spider-Verse utilizes writing techniques from many different mediums to tell a story. We’ll be discussing how the writers of Across the Spider-Verse used specific techniques such as cold opens and storytelling frameworks to stand out from other stories.
