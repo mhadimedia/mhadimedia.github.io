@@ -1,5 +1,5 @@
 ---
-title: "A cinematic leap into imagination: Across the Spider-Verse"
+title: "A Cinematic Leap into Imagination: Across the Spider-Verse"
 date: 2023-10-10T20:46:05-07:00
 image: images/spiderverse.jpg
 description: "There's a reason why everyone loves Spider-Man Across the Spider-Verse. They used everything they could to tell the best possible story. Here's how you can use the exact same techniques as they did."
