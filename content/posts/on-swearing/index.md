@@ -37,14 +37,14 @@ I remember the first time I heard a swear word being used out loud and nobody ca
 I realized swearing is not as bad as it seems. But that doesn't mean that it's good. I have friends who love swearing whenever there's an opportunity. It seems like in high school, a lot of kids go through a phase where they have to swear in every few sentences no matter what. Some people never leave that phase.
 
 ## Should someone swear?
-People choose not to swear for all sorts of reasons. They want to keep a professional attitude. They want to follow religious guidelines. They want to appear as kind and lighthearted, never losing their temper. I used to think there's certain cases where swearing is nessecary. That swearing in general should be avoided, but is fine in certain cases. It's easy to think that joking with friends, for example, is acceptable. Or that when you're mad, you need to swear to make an impact. At the back of my head, I kind of used to have this mindset.
+People choose not to swear for all sorts of reasons. They want to keep a professional attitude. They want to follow religious guidelines. They want to appear as kind and lighthearted, never losing their temper. I used to think there's certain cases where swearing is nessecary. That swearing in general should be avoided, but is fine in certain cases. It's easy to think that swearing while joking with friends, for example, is acceptable. Or that when you're mad, you need to swear to make an impact.
 
-Then, this year I decided to try something. Before school started, I just decided to not swear again. I thought it would be impossible, but I tried doing it anyways. I'd write down every time I swore, trying to lower that number. Slowly, the number got to 0. All it took was the right mindset.
+This year I decided to try something. Before school started, I just decided to not swear again. I thought it would be impossible, but I tried doing it anyways. I'd write down every time I swore, trying to lower that number. Slowly, the number got to 0. All it took was the right mindset.
 
 ## So what?
 You don't need to swear. If you want to swear, that's your personal choice. But don't fall into the trap that I did.
 
-Those situations I was describiing earlier, they're still somnewhat valid. But now, I try avoiding those situations in the first place. If you're really mad, you might need to swear to make a point. But why are you mad in the first place? 
+Those situations I was describing earlier - they're still somnewhat valid. But now, I try avoiding those situations in the first place. If you're really mad, you might need to swear to make a point. But why are you mad in the first place? 
 
 Find the root cause. Do you need to be in that situation that forces you to swear? Or are you just tricking yourself into thinking you need to swear?
 
