@@ -1,14 +1,13 @@
 ---
-title: "Sins can be like Samosas (they're related)"
+title: "Sins can be like Samosas"
 date: 2023-10-16
+image: images/samosas.jpg
 description: "I was at someone's house the other day. They were describing their love for Indian food, especially Samosas. They mentioned how tasty it was, how tempting it was to eat more of them, how they felt regret after eating them, and how they faced a punishment from eating too many the next day. Sounds similar to something else, doesn't it?"
 tags:
    - story
    - advice
 ---
 I was at someone's house the other day. We were sitting at the table eating lunch, and were discussing different cuisines. The host started describing their love for Indian food, and brought up Samosas. He started telling us a story of how some years back, he ate some Samosas. *It's a good story.*
-
-![Samosas on a plate](samosas.jpg)
 
 It was the Islamic month of Ramadan, where Muslims don't eat or drink during the day for 30 days. He was at someone else's house, and they were sitting down to break their fast for that day. This house had a plate of beautiful, delicious Samosas on the table. 
 
