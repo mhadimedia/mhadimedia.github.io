@@ -28,7 +28,7 @@ On this "blog", posts are simply reflections. These include quotes I hear, stori
 
 - The length doesn't matter. I'll write sentences and I'll write essays.
 - The style doesn't matter. I'll be formal and I'll be informal.
-- My advice doesn't matter. I can only give the advice of others that worked for me.
+- Random advice doesn't matter. I can only share the advice of others that worked for me, and my own insights that I've gained from experience.
 
 ## Types of Content
 - The tweets: Short stuff that I honestly can't be bothered to write more than a line or two on. You probably can't be bothered to read more than that either.
