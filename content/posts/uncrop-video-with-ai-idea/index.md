@@ -1,6 +1,6 @@
 ---
-title: "What if you could use AI to expand video to any size? (Idea)"
-date: 2023-10-17
+title: "What if you could use AI to expand video to any size?"
+date: 2023-10-16
 description: "An idea from my endless collection of ideas that I either don't have the time or dedication to follow through with. No license required to steal."
 tags:
    - ideas
