@@ -20,7 +20,7 @@ We've seen the release of tools such as Adobe Generative Expand and Clipdrop Unc
 If this concept is applied to video, it can be a game-changer. Companies have tried introducing vertical movies before but have failed as those movies need to be shot specifically with a vertical ratio in mind. But with the introduction of AI, any video content can be expanded to account for any ratio, without cropping in and losing content on the screen.
 
 ## Progress
-- Domain purchased: [https://uncrop.video](uncrop.video)
+- Domain purchased: [https://uncrop.video](https://uncrop.video)
   - *Note: Never buy a domain until you know your project is going to work. $28 down the drain. Contact me if you're interested in purchasing it.*
 - Research done: Adobe Generative Expand, Clipdrop Uncrop, Stable Diffusion, Midjourney expand.
 
