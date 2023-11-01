@@ -1,5 +1,5 @@
 ---
-title: Human nature is preplexing.
+title: Human nature is preplexing
 date: 2023-10-31
 description: "If you pause for a second and think about the irony in human nature, it's really interesting."
 ---
