@@ -7,6 +7,8 @@ description: "Half written, half baked. Coming soon to a full post near you... o
 The following are a collection of drafts.
 
 ## Ideas
+- [ ]  while bombs are falling over refugee camps, we're here celebrating and making fun of death
+- [ ]  the anti-ai revolution
 - [ ]  you don’t need social media - story of snapchat
 - [ ]  overdeliver on projects to continue working
 - [ ]  AI vs creativity - the backlash thats coming especially for AI art
