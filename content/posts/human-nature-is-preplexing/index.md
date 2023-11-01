@@ -1,7 +1,7 @@
 ---
-title: Hello, world
+title: Human nature is preplexing.
 date: 2023-10-31
-description: "Human nature is preplexing."
+description: "If you pause for a second and think about the irony in human nature, it's really interesting."
 ---
 if you pause for a second and think about the irony in human nature, it's really interesting
 
