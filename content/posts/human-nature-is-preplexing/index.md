@@ -25,4 +25,4 @@ all of us could die at any second
 
 so to cope, we make fun of it
 
-if you pause for a second and think about the irony in human nature, it's really preplexing
+if you pause for a second and think about the irony in human nature, it's really preplexing.
