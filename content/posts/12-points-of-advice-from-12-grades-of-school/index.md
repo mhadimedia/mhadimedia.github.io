@@ -1,6 +1,6 @@
 ---
 title: "12 Points of Advice from 12 Grades of School"
-date: 2023-10-30
+date: 2023-11-30
 description: "I've been in school for 15 years now, including 12 grades. Here are some of the lessons I've learnt the hard way."
 tags:
    - advice
