@@ -2,6 +2,8 @@
 title: "The drafts"
 date: 2023-09-25
 description: "Half written, half baked. Coming soon to a full post near you... or not."
+tags:
+   - tweets
 ---
 ### Half written, half baked. Coming soon to a full post near you... or not.
 The following are a collection of drafts.
