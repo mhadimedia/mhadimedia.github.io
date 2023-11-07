@@ -15,16 +15,14 @@ The following are a collection of drafts.
 - [ ]  AI vs creativity - the backlash thats coming especially for AI art
 - [ ]  the story of the water jug from "the creative act" book
 - [ ]  The best editing is silent, same with best shots, best music, photography, etc
-- [ ]  advice that sticks with you
 - [ ]  first win of the day
 - [ ]  staying aware
 - [ ]  convenience can be laziness (and so can not making things more convenient)
-- [ ]  chatgpt being the new google
 - [ ]  AI killing creativity, worst thing to use AI for is a blog
     -  outsourcing personality for AI
 - [ ]  balance being the one word across everything
 - [ ]  why everything comes down to storytelling + how it's the biggest hack
-- [ ]  niche down
+- [ ]  my issues with "niche down"
 - [ ]  creating vs building
 - [ ]  everyone tells you what works and what doesnt but the only way to figure out is to make mistakes yourself
 - [ ]  storytelling is retention
