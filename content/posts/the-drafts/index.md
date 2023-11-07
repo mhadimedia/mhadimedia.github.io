@@ -9,25 +9,22 @@ tags:
 The following are a collection of drafts.
 
 ## Ideas
-- [ ]  while bombs are falling over refugee camps, we're here celebrating and making fun of death
 - [ ]  the anti-ai revolution
 - [ ]  you don’t need social media - story of snapchat
 - [ ]  overdeliver on projects to continue working
 - [ ]  AI vs creativity - the backlash thats coming especially for AI art
 - [ ]  the story of the water jug from "the creative act" book
-- [ ]  your story is important, what about their story? antagonist of a story also has their own story
 - [ ]  The best editing is silent, same with best shots, best music, photography, etc
 - [ ]  advice that sticks with you
 - [ ]  first win of the day
 - [ ]  staying aware
 - [ ]  convenience can be laziness (and so can not making things more convenient)
-- [ ]  outsourcing personality for AI
 - [ ]  chatgpt being the new google
 - [ ]  AI killing creativity, worst thing to use AI for is a blog
+    -  outsourcing personality for AI
 - [ ]  balance being the one word across everything
 - [ ]  why everything comes down to storytelling + how it's the biggest hack
 - [ ]  niche down
-- [ ]  painkillers vs vitamins vs candies: projects
 - [ ]  creating vs building
 - [ ]  everyone tells you what works and what doesnt but the only way to figure out is to make mistakes yourself
 - [ ]  storytelling is retention
@@ -73,11 +70,3 @@ The following are a collection of drafts.
     - Concentration for people with ADHD
         - https://file.notion.so/f/f/ec16946c-7f13-427e-8a1a-a2352909ed14/20110a57-0b15-443e-9145-ea39d8a09c54/Screenshot_2023-09-20_at_8.49.52_PM.png?id=7fe00446-b54c-41c5-8176-9625fb1216a1&table=block&spaceId=ec16946c-7f13-427e-8a1a-a2352909ed14&expirationTimestamp=1697846400000&signature=urfffZ8tr7pddG1MHrVdRuQcB1NM_DHtOdJMOMco0xA&downloadName=Screenshot+2023-09-20+at+8.49.52+PM.png
         - https://file.notion.so/f/f/ec16946c-7f13-427e-8a1a-a2352909ed14/ba3060d0-0dbc-4b6d-b160-01422f9f1973/Screenshot_2023-09-20_at_8.50.36_PM.png?id=75d2d8a2-e89f-4549-b854-6c2371ca297f&table=block&spaceId=ec16946c-7f13-427e-8a1a-a2352909ed14&expirationTimestamp=1697846400000&signature=j_CbwL0b2LW1IVa_pKj8YcrR8ztnyHN3QZ1XHfTOTVc&downloadName=Screenshot+2023-09-20+at+8.50.36+PM.png
-
-## Completed
-- [x]  hello world
-- [x]  writing for an audience vs writing for writing
-- [x]  Question everything but be open to learning
-- [x]  Religion by choice not by birth
-- [x]  idea of uncrop.video
-- [x]  sins are like samosas
