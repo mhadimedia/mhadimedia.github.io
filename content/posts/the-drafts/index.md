@@ -9,29 +9,30 @@ tags:
 The following are a collection of drafts.
 
 ## Ideas
-- [ ]  the anti-ai revolution
-- [ ]  you don’t need social media - story of snapchat
-- [ ]  overdeliver on projects to continue working
-- [ ]  AI vs creativity - the backlash thats coming especially for AI art
-- [ ]  the story of the water jug from "the creative act" book
-- [ ]  The best editing is silent, same with best shots, best music, photography, etc
-- [ ]  first win of the day
-- [ ]  staying aware
-- [ ]  convenience can be laziness (and so can not making things more convenient)
-- [ ]  AI killing creativity, worst thing to use AI for is a blog
+### AI
+- The anti-ai revolution
+- AI vs creativity - the backlash thats coming especially for AI art
+- AI killing creativity, worst thing to use AI for is a blog
     -  outsourcing personality for AI
-- [ ]  balance being the one word across everything
-- [ ]  why everything comes down to storytelling + how it's the biggest hack
-- [ ]  my issues with "niche down"
-- [ ]  creating vs building
-- [ ]  everyone tells you what works and what doesnt but the only way to figure out is to make mistakes yourself
-- [ ]  storytelling is retention
-- [ ]  Issue with AI art
-- [ ]  Prayer vs meditation
-- [ ]  Productive procrastination
-- [ ]  losing the meaning of relaxation, taking walks in the morning
-- [ ]  leap of faith vs the leap of a fool
-- [ ]  Islam vs Music (focus on the psychology of music)
+- Issue with AI art
+
+### Other
+- You don’t need social media - story of snapchat
+- Overdeliver on projects to continue working
+- The story of the water jug from "the creative act" book
+- The best editing is silent, same with best shots, best music, photography, etc
+- First win of the day
+- Staying aware
+- Convenience can be laziness (and so can not making things more convenient)
+- Balance being the one word across everything
+- Why everything comes down to storytelling + how it's the biggest hack
+- My issues with "niche down"
+- Everyone tells you what works and what doesnt but the only way to figure out is to make mistakes yourself
+- Storytelling is retention
+- Prayer vs meditation
+- Productive procrastination
+- losing the meaning of relaxation, taking walks in the morning
+- Islam vs Music (focus on the psychology of music)
     - halal v haram music research
     - debunking music myths one at a time
     - quran shouldnt be used as music, what it should be used for
@@ -43,7 +44,8 @@ The following are a collection of drafts.
     - issues with current normalized music
     - why almost every youth listens to music on a daily basis, full of statistics of spotify, youth, etc and why music is such a big industry etc
     - we cant tell people to stop listening to music without an alternative, and if quran is not that alternative then what is?
-- [ ]  issues with digital productivity
+
+- Issues with digital productivity
     - https://www.theatlantic.com/health/archive/2023/09/to-do-list-productivity-apps/675314/
         - Productivity is a source of anxiety for many people, tied to notions of self-worth. The tech industry capitalizes on this by selling digital tools for optimization.
         - Simple paper to-do lists are often more effective for getting things done than digital tools. Writing tasks down clears your mind and keeps the list physically present.
@@ -52,7 +54,8 @@ The following are a collection of drafts.
         - To-do lists should be simple, not organized or aesthetic. Just write down tasks, cross them off as you finish, and rewrite the next day's list.
         Some research suggests list-making improves working memory, and handwriting aids learning and memory versus typing.
         - Simple paper to-do lists are low-tech and don't require buying products. The power is their simplicity and physical presence.
-- [ ]  using noise for concentration
+
+- Using noise for concentration
     - I started this article after seeing multiple talk about brown noise + discovering how my watch instantly wakes me up with a simple tune
     - White noise, hearing in mother’s womb
     - pink noise

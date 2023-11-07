@@ -1,5 +1,5 @@
 ---
-title: "Life is about perspectives."
+title: "Life is about perspectives"
 date: 2023-11-07T13:52:56-08:00
 tags:
   - tweets
