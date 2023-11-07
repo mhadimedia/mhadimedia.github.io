@@ -1,6 +1,6 @@
 ---
 title: "A leap of faith vs. a leap of a fool"
-date: 2023-11-08
+date: 2023-11-07
 description: "We've all heard the term 'leap of faith' before. But what makes a leap one of faith and not just one of a fool?"
 image: images/leapofaith.jpg
 tags:
@@ -27,6 +27,10 @@ Miles Morales, the main character of the movie, is struggling with his new role 
 Albeit very dramatically, Miles' journey from a loss of faith to a leap of faith, through the empowerment of his father's words, is shown beautifully through a mix of animation, dialogue, and music.
 
 The screenwriters obviously had a lot of fun writing this segment. We can see their enthusiasm and the amount of detail that went into constructing the scene below:
+
+![A page of the screenplay for Spider-Man: Into the Spider-Verse](1.png)
+![A page of the screenplay for Spider-Man: Into the Spider-Verse](2.png)
+![A page of the screenplay for Spider-Man: Into the Spider-Verse](3.png)
 
 The purpose of this scene is to ~~show off cool animation~~ show how with the love and encouragement of his parents, Miles is unstoppable and can do anything.
 
