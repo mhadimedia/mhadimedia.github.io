@@ -1,6 +1,6 @@
 ---
 title: "A leap of faith vs. a leap of a fool"
-date: 2023-11-07
+date: 2023-11-08
 description: "We've all heard the term 'leap of faith' before. But what makes a leap one of faith and not just one of a fool?"
 image: images/leapofaith.jpg
 tags:
