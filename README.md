@@ -1,1 +1,1 @@
-# New site: (Reflections by M Hadi)[https://mhadimedia.com/blog]
+New site: (Reflections by M Hadi)[https://mhadimedia.com/blog]
