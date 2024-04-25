@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            window.onload = function() {
+                var fallback = "https://youtu.be/watch?v=3InCliGukWg",
+                app = "vnd.youtube://watch?v=3InCliGukWg";
+
+                if( /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) ) {
+                    window.location = app;
+                    window.setTimeout(function() {
+                        window.location = fallback;
+                    }, 25);
+                } else {
+                    window.location = fallback;
+                }
+
+                function killPopup() {
+                    window.removeEventListener('pagehide', killPopup);
+                }
+
+                window.addEventListener('pagehide', killPopup);
+            };
+        </script>
+    </body>
+</html>
+# for reference: https://justinbieshaar.com/how-to-make-a-youtube-deeplink/
